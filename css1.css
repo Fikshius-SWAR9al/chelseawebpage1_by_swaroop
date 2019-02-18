@@ -1,0 +1,154 @@
+.maincolor{background-color: blue;}
+
+#top{background-color:blue;}
+
+#heading{text-align: center;
+         font-family:'Staatliches', monospace;
+         font-size: 100px;
+         color: white;}
+
+#downthelogo{text-align: center;
+         font-family:'Staatliches', monospace;
+         font-size: 50px;
+         color: white;}
+
+#chelsea{display:block;
+          margin:0 auto;}
+
+#loc{background-color:silver;
+    width: auto;
+    height: 580px;}
+
+#text1{  text-align: center;
+         font-family:'Staatliches', monospace;
+         font-size: 50px;
+         color: black;}
+
+#devtext1{
+
+          font-family:'Cabin Sketch', monospace;
+          text-align:center;
+          font-size:80px;
+          color:white;
+}
+
+.kante{
+
+  background-image:url("image.jpg");
+  width: 1820px;
+  height:900px;
+  margin:0;
+  padding:0;
+     }
+
+#try{
+
+     font-family:'Cabin Sketch',monospace;
+     font-size: 60px;
+     color:white;
+
+
+}
+
+#q1{
+  color:white;
+  font-size: 23px;
+}
+
+#q2{
+  display: block;
+  text-align: right;
+  padding-top: 50px;
+  font-size:23px;
+  color: silver;
+
+
+}
+
+#q3{
+    font-size:23px;
+    color: white;
+}
+
+
+#q4 {
+  display: block;
+  text-align: right;
+  padding-top: 50px;
+  font-size:23px;
+  color: silver;
+
+
+}
+
+.haza{
+
+  background-image:url("haza.jpg");
+  width: 1820px;
+  height:900px;
+  margin:0;
+  padding:0;
+     }
+
+#devtext2{
+
+
+  font-family:'Cabin Sketch', monospace;
+  margin:0;
+  padding:0;
+  text-align:center;
+  font-size:80px;
+  color:white;
+
+}
+
+table, td, tr, th{
+    border-color: white;
+    border-width: 2px;
+
+
+}
+th{
+
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+td{
+
+  text-align: center;
+}
+
+
+.row{
+     color: white;
+}
+
+#sar{
+  vertical-align: middle;
+    float: right;
+    color: white;
+    font-size: 23px;
+}
+
+#kovc{
+
+  background-image: url("koci.jpg");
+  width: 1820px;
+  height: 800px;
+  margin-top: 140px;
+}
+
+#fix{
+
+  text-align: center;
+  color:white;
+  font-family: "Cabin Sketch", monospace;
+  font-size: 80px;
+
+}
+#fi{
+  color: white;
+  font-size: 23px;
+  white-space: pre;
+}
